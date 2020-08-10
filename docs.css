@@ -1,0 +1,5 @@
+<style type="text/css"> *{margin:0;padding:0;}
+body{font:1em Helvetica,sans-serif;color:#434358;background-color:#ffffff;margin:0px;}
+#banner{position:absolute;left:0px;right:0px;top:0px:height:70px;padding-left:15px;background-color: #f5f5f5;border-top: 6px solid #b94a48; box-shadow: 1px 1px 3px #A3A3A7;}
+#doc{position:absolute;right:180px;top:30px;}
+#models{position:absolute;right:50px;top:30px;}
